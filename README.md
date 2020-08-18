@@ -1,2 +1,2 @@
-# microARCH-lab.github.io
+# microARCHlab.github.io
 microARCH Lab Website
