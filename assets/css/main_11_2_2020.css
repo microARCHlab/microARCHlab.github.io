@@ -2362,7 +2362,7 @@ input, select, textarea {
 				position: relative;
 				display: inline-block;
 				padding: 0 1.5em 0 1.5em;
-				top: -0.65em;
+				top: -1em;
 			}
 
 			#header .logo h1 {
