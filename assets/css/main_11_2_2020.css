@@ -1792,6 +1792,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			margin: 0 0 1em 0;
 		}
 
 		.image.featured {
@@ -1828,7 +1829,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #8288df;
+		background: #002d62;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1850,7 +1851,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-					background: #002d62;
+					background: #b4b7b5;
 		}
 
 		input[type="button"]:active,
@@ -2366,6 +2367,7 @@ input, select, textarea {
 
 			#header .logo h1 {
 				display: inline;
+				font-size: 1.5em;
 			}
 
 			#header .logo p {
@@ -2449,7 +2451,7 @@ input, select, textarea {
 			}
 
 			#nav li.current a {
-				background: #8288df;
+				background: #b4b7b5;
 				color: #fff;
 			}
 
@@ -2546,8 +2548,8 @@ input, select, textarea {
 				display: block;
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
-				text-transform: uppercase;
-				color: #999999;
+				text-transform: none;
+				color: #dad6d6;
 				font-size: 1.35em;
 				margin: 0 0 1.25em 0;
 			}
@@ -2861,7 +2863,7 @@ input, select, textarea {
 						position: absolute;
 						left: 0;
 						top: 0;
-						background: #8288df;
+						background: #b4b7b5;
 						width: 44px;
 						height: 44px;
 						content: '\f0c9';
